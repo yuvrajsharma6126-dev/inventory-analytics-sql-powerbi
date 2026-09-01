@@ -168,6 +168,8 @@ The project aims to support:
 - More informed operational decision-making
 
 ---
+<img width="1306" height="733" alt="image" src="https://github.com/user-attachments/assets/0e3fefd3-27cc-4652-b507-7554f01b6445" />
+<img width="1318" height="735" alt="image" src="https://github.com/user-attachments/assets/06397f20-614b-447c-bb9e-b66eaeb1965c" />
 
 # 📁 Project Structure
 
