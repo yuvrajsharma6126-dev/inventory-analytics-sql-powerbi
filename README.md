@@ -71,3 +71,5 @@ Raw CSV Data
            │
            ▼
    Business Insights
+<img width="1375" height="750" alt="image" src="https://github.com/user-attachments/assets/9a4acaf7-91e2-4c12-8167-79c566743bf5" />
+<img width="1343" height="742" alt="image" src="https://github.com/user-attachments/assets/ea607d47-b581-446d-aee8-fffae2cdb0c4" />
